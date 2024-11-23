@@ -1,5 +1,11 @@
 # Análisis Numérico de Datos de Casos Confirmados de Covid-19
 
+> [!WARNING]  
+> Este código fue creado por: Geordy Harley Pardo Velosa. Si desea usarlo en alguna investigación o trabajo académico, se debe dar crédito de la siguiente forma:  
+> G. H. Pardo Velosa, "C-Datos-Numericos", GitHub, 2024. [Enlace]. Accedido: Día-Mes-Año.  
+> https://github.com/NYoyiC/C-Datos-Numericos
+
+
 > [!NOTE]
 >Esta codigo sirve tambien para cualquier tipo de .CSV que contenga el formato mencionado más adelante.
 
