@@ -296,6 +296,7 @@ int main() {
     cambiarColor(7);
     // Imprimir línea final
     imprimirLineaSeparadora();
+    system("pause");
 }
 
 
