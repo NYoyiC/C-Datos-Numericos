@@ -2,7 +2,7 @@
 
 > [!WARNING]  
 > Este código fue creado por: Geordy Harley Pardo Velosa. Si desea usarlo en alguna investigación o trabajo académico, se debe dar crédito de la siguiente forma:  
-> G. H. Pardo Velosa, "C-Datos-Numericos", GitHub, 2024. [Enlace]. Accedido: Día-Mes-Año.  
+> G. H. Pardo Velosa, "Cpp-Datos-Numericos", GitHub, 2024. [Enlace]. Accedido: Día-Mes-Año.  
 > https://github.com/NYoyiC/C-Datos-Numericos
 
 
